@@ -1,1 +1,254 @@
-[{"model": "admin.logentry", "pk": 1, "fields": {"action_time": "2024-06-27T17:41:43.984Z", "user": 1, "content_type": 7, "object_id": "1", "object_repr": "Volvo", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 2, "fields": {"action_time": "2024-06-27T17:42:57.658Z", "user": 1, "content_type": 8, "object_id": "1", "object_repr": "Frankfurt", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 3, "fields": {"action_time": "2024-06-27T17:43:55.977Z", "user": 1, "content_type": 9, "object_id": "1", "object_repr": "Volvo S40", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 4, "fields": {"action_time": "2024-06-27T17:44:23.296Z", "user": 1, "content_type": 7, "object_id": "2", "object_repr": "Audi", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 5, "fields": {"action_time": "2024-06-27T17:45:06.615Z", "user": 1, "content_type": 8, "object_id": "2", "object_repr": "leipcig", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 6, "fields": {"action_time": "2024-06-27T17:45:41.041Z", "user": 1, "content_type": 9, "object_id": "2", "object_repr": "Audi a4", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 7, "fields": {"action_time": "2024-06-30T09:48:44.717Z", "user": 1, "content_type": 9, "object_id": "2", "object_repr": "Audi a4", "action_flag": 2, "change_message": "[]"}}, {"model": "admin.logentry", "pk": 8, "fields": {"action_time": "2024-06-30T09:49:42.067Z", "user": 1, "content_type": 9, "object_id": "2", "object_repr": "Audi a4", "action_flag": 2, "change_message": "[]"}}, {"model": "admin.logentry", "pk": 9, "fields": {"action_time": "2024-06-30T09:49:55.611Z", "user": 1, "content_type": 9, "object_id": "2", "object_repr": "Audi a4", "action_flag": 2, "change_message": "[]"}}, {"model": "admin.logentry", "pk": 10, "fields": {"action_time": "2024-06-30T09:50:57.551Z", "user": 1, "content_type": 9, "object_id": "2", "object_repr": "Audi a4", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"}}, {"model": "admin.logentry", "pk": 11, "fields": {"action_time": "2024-06-30T09:51:12.904Z", "user": 1, "content_type": 9, "object_id": "2", "object_repr": "Audi a4", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"}}, {"model": "admin.logentry", "pk": 12, "fields": {"action_time": "2024-06-30T11:01:08.709Z", "user": 1, "content_type": 9, "object_id": "3", "object_repr": "Audi A8", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 13, "fields": {"action_time": "2024-06-30T11:01:21.303Z", "user": 1, "content_type": 9, "object_id": "4", "object_repr": "Audi A8", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"}}, {"model": "admin.logentry", "pk": 14, "fields": {"action_time": "2024-07-01T16:13:42.092Z", "user": 1, "content_type": 9, "object_id": "5", "object_repr": "Volvo S90", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 15, "fields": {"action_time": "2024-07-01T18:28:28.597Z", "user": 1, "content_type": 10, "object_id": "1", "object_repr": "Audi a6", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 16, "fields": {"action_time": "2024-07-01T18:29:03.091Z", "user": 1, "content_type": 10, "object_id": "2", "object_repr": "Volvo S40", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 17, "fields": {"action_time": "2024-07-03T15:54:54.034Z", "user": 1, "content_type": 9, "object_id": "12", "object_repr": "Audi S40", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 18, "fields": {"action_time": "2024-07-03T15:54:54.099Z", "user": 1, "content_type": 9, "object_id": "11", "object_repr": "Audi a121", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 19, "fields": {"action_time": "2024-07-03T15:54:54.101Z", "user": 1, "content_type": 9, "object_id": "10", "object_repr": "Audi a12", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 20, "fields": {"action_time": "2024-07-03T15:54:54.103Z", "user": 1, "content_type": 9, "object_id": "9", "object_repr": "Audi a6", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 21, "fields": {"action_time": "2024-07-03T15:54:54.105Z", "user": 1, "content_type": 9, "object_id": "8", "object_repr": "Audi a6", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 22, "fields": {"action_time": "2024-07-03T15:54:54.106Z", "user": 1, "content_type": 9, "object_id": "7", "object_repr": "Audi a6", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 23, "fields": {"action_time": "2024-07-03T15:55:07.614Z", "user": 1, "content_type": 9, "object_id": "4", "object_repr": "Audi A8", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"}}, {"model": "admin.logentry", "pk": 24, "fields": {"action_time": "2024-07-03T15:56:05.723Z", "user": 1, "content_type": 9, "object_id": "2", "object_repr": "Audi a4", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"}}, {"model": "admin.logentry", "pk": 25, "fields": {"action_time": "2024-07-03T15:56:12.378Z", "user": 1, "content_type": 9, "object_id": "4", "object_repr": "Audi A8", "action_flag": 2, "change_message": "[]"}}, {"model": "admin.logentry", "pk": 26, "fields": {"action_time": "2024-07-03T15:57:25.155Z", "user": 1, "content_type": 9, "object_id": "1", "object_repr": "Volvo S40", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"}}, {"model": "admin.logentry", "pk": 27, "fields": {"action_time": "2024-07-03T15:59:54.831Z", "user": 1, "content_type": 9, "object_id": "6", "object_repr": "Volvo S90", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Image\"]}}]"}}, {"model": "admin.logentry", "pk": 28, "fields": {"action_time": "2024-07-03T16:00:47.177Z", "user": 1, "content_type": 10, "object_id": "2", "object_repr": "Volvo S40", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"}}, {"model": "admin.logentry", "pk": 29, "fields": {"action_time": "2024-07-03T16:01:07.573Z", "user": 1, "content_type": 10, "object_id": "3", "object_repr": "Audi A8", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 30, "fields": {"action_time": "2024-07-03T16:01:26.445Z", "user": 1, "content_type": 10, "object_id": "4", "object_repr": "Audi a4", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 31, "fields": {"action_time": "2024-07-04T18:55:07.189Z", "user": 1, "content_type": 7, "object_id": "3", "object_repr": "BMW", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 32, "fields": {"action_time": "2024-07-04T18:55:45.485Z", "user": 1, "content_type": 8, "object_id": "3", "object_repr": "Berlin", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 33, "fields": {"action_time": "2024-07-04T18:55:56.769Z", "user": 1, "content_type": 9, "object_id": "13", "object_repr": "BMW E39", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 34, "fields": {"action_time": "2024-07-15T16:40:10.524Z", "user": 1, "content_type": 4, "object_id": "2", "object_repr": "igor", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"password\"]}}]"}}, {"model": "admin.logentry", "pk": 35, "fields": {"action_time": "2024-07-22T18:23:48.774Z", "user": 1, "content_type": 12, "object_id": "17", "object_repr": "Order object (17)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 36, "fields": {"action_time": "2024-07-22T18:23:49.001Z", "user": 1, "content_type": 12, "object_id": "16", "object_repr": "Order object (16)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 37, "fields": {"action_time": "2024-07-22T18:23:49.004Z", "user": 1, "content_type": 12, "object_id": "15", "object_repr": "Order object (15)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 38, "fields": {"action_time": "2024-07-22T18:23:49.005Z", "user": 1, "content_type": 12, "object_id": "14", "object_repr": "Order object (14)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 39, "fields": {"action_time": "2024-07-22T18:23:49.007Z", "user": 1, "content_type": 12, "object_id": "13", "object_repr": "Order object (13)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 40, "fields": {"action_time": "2024-07-22T18:23:49.031Z", "user": 1, "content_type": 12, "object_id": "12", "object_repr": "Order object (12)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 41, "fields": {"action_time": "2024-07-22T18:23:49.033Z", "user": 1, "content_type": 12, "object_id": "11", "object_repr": "Order object (11)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 42, "fields": {"action_time": "2024-07-22T18:23:49.035Z", "user": 1, "content_type": 12, "object_id": "10", "object_repr": "Order object (10)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 43, "fields": {"action_time": "2024-07-22T18:23:49.046Z", "user": 1, "content_type": 12, "object_id": "9", "object_repr": "Order object (9)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 44, "fields": {"action_time": "2024-07-22T18:23:49.048Z", "user": 1, "content_type": 12, "object_id": "8", "object_repr": "Order object (8)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 45, "fields": {"action_time": "2024-07-22T18:23:49.049Z", "user": 1, "content_type": 12, "object_id": "7", "object_repr": "Order object (7)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 46, "fields": {"action_time": "2024-07-22T18:23:49.050Z", "user": 1, "content_type": 12, "object_id": "6", "object_repr": "Order object (6)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 47, "fields": {"action_time": "2024-07-22T18:23:49.053Z", "user": 1, "content_type": 12, "object_id": "5", "object_repr": "Order object (5)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 48, "fields": {"action_time": "2024-07-22T18:23:49.055Z", "user": 1, "content_type": 12, "object_id": "4", "object_repr": "Order object (4)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 49, "fields": {"action_time": "2024-07-22T18:23:49.056Z", "user": 1, "content_type": 12, "object_id": "3", "object_repr": "Order object (3)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 50, "fields": {"action_time": "2024-07-22T18:23:49.057Z", "user": 1, "content_type": 12, "object_id": "2", "object_repr": "Order object (2)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 51, "fields": {"action_time": "2024-07-22T18:23:49.059Z", "user": 1, "content_type": 12, "object_id": "1", "object_repr": "Order object (1)", "action_flag": 3, "change_message": ""}}, {"model": "auth.permission", "pk": 1, "fields": {"name": "Can add log entry", "content_type": 1, "codename": "add_logentry"}}, {"model": "auth.permission", "pk": 2, "fields": {"name": "Can change log entry", "content_type": 1, "codename": "change_logentry"}}, {"model": "auth.permission", "pk": 3, "fields": {"name": "Can delete log entry", "content_type": 1, "codename": "delete_logentry"}}, {"model": "auth.permission", "pk": 4, "fields": {"name": "Can view log entry", "content_type": 1, "codename": "view_logentry"}}, {"model": "auth.permission", "pk": 5, "fields": {"name": "Can add permission", "content_type": 2, "codename": "add_permission"}}, {"model": "auth.permission", "pk": 6, "fields": {"name": "Can change permission", "content_type": 2, "codename": "change_permission"}}, {"model": "auth.permission", "pk": 7, "fields": {"name": "Can delete permission", "content_type": 2, "codename": "delete_permission"}}, {"model": "auth.permission", "pk": 8, "fields": {"name": "Can view permission", "content_type": 2, "codename": "view_permission"}}, {"model": "auth.permission", "pk": 9, "fields": {"name": "Can add group", "content_type": 3, "codename": "add_group"}}, {"model": "auth.permission", "pk": 10, "fields": {"name": "Can change group", "content_type": 3, "codename": "change_group"}}, {"model": "auth.permission", "pk": 11, "fields": {"name": "Can delete group", "content_type": 3, "codename": "delete_group"}}, {"model": "auth.permission", "pk": 12, "fields": {"name": "Can view group", "content_type": 3, "codename": "view_group"}}, {"model": "auth.permission", "pk": 13, "fields": {"name": "Can add user", "content_type": 4, "codename": "add_user"}}, {"model": "auth.permission", "pk": 14, "fields": {"name": "Can change user", "content_type": 4, "codename": "change_user"}}, {"model": "auth.permission", "pk": 15, "fields": {"name": "Can delete user", "content_type": 4, "codename": "delete_user"}}, {"model": "auth.permission", "pk": 16, "fields": {"name": "Can view user", "content_type": 4, "codename": "view_user"}}, {"model": "auth.permission", "pk": 17, "fields": {"name": "Can add content type", "content_type": 5, "codename": "add_contenttype"}}, {"model": "auth.permission", "pk": 18, "fields": {"name": "Can change content type", "content_type": 5, "codename": "change_contenttype"}}, {"model": "auth.permission", "pk": 19, "fields": {"name": "Can delete content type", "content_type": 5, "codename": "delete_contenttype"}}, {"model": "auth.permission", "pk": 20, "fields": {"name": "Can view content type", "content_type": 5, "codename": "view_contenttype"}}, {"model": "auth.permission", "pk": 21, "fields": {"name": "Can add session", "content_type": 6, "codename": "add_session"}}, {"model": "auth.permission", "pk": 22, "fields": {"name": "Can change session", "content_type": 6, "codename": "change_session"}}, {"model": "auth.permission", "pk": 23, "fields": {"name": "Can delete session", "content_type": 6, "codename": "delete_session"}}, {"model": "auth.permission", "pk": 24, "fields": {"name": "Can view session", "content_type": 6, "codename": "view_session"}}, {"model": "auth.permission", "pk": 25, "fields": {"name": "Can add brand", "content_type": 7, "codename": "add_brand"}}, {"model": "auth.permission", "pk": 26, "fields": {"name": "Can change brand", "content_type": 7, "codename": "change_brand"}}, {"model": "auth.permission", "pk": 27, "fields": {"name": "Can delete brand", "content_type": 7, "codename": "delete_brand"}}, {"model": "auth.permission", "pk": 28, "fields": {"name": "Can view brand", "content_type": 7, "codename": "view_brand"}}, {"model": "auth.permission", "pk": 29, "fields": {"name": "Can add manufacturer", "content_type": 8, "codename": "add_manufacturer"}}, {"model": "auth.permission", "pk": 30, "fields": {"name": "Can change manufacturer", "content_type": 8, "codename": "change_manufacturer"}}, {"model": "auth.permission", "pk": 31, "fields": {"name": "Can delete manufacturer", "content_type": 8, "codename": "delete_manufacturer"}}, {"model": "auth.permission", "pk": 32, "fields": {"name": "Can view manufacturer", "content_type": 8, "codename": "view_manufacturer"}}, {"model": "auth.permission", "pk": 33, "fields": {"name": "Can add car", "content_type": 9, "codename": "add_car"}}, {"model": "auth.permission", "pk": 34, "fields": {"name": "Can change car", "content_type": 9, "codename": "change_car"}}, {"model": "auth.permission", "pk": 35, "fields": {"name": "Can delete car", "content_type": 9, "codename": "delete_car"}}, {"model": "auth.permission", "pk": 36, "fields": {"name": "Can view car", "content_type": 9, "codename": "view_car"}}, {"model": "auth.permission", "pk": 37, "fields": {"name": "Can add additional car image", "content_type": 10, "codename": "add_additionalcarimage"}}, {"model": "auth.permission", "pk": 38, "fields": {"name": "Can change additional car image", "content_type": 10, "codename": "change_additionalcarimage"}}, {"model": "auth.permission", "pk": 39, "fields": {"name": "Can delete additional car image", "content_type": 10, "codename": "delete_additionalcarimage"}}, {"model": "auth.permission", "pk": 40, "fields": {"name": "Can view additional car image", "content_type": 10, "codename": "view_additionalcarimage"}}, {"model": "auth.permission", "pk": 41, "fields": {"name": "Can add order item", "content_type": 11, "codename": "add_orderitem"}}, {"model": "auth.permission", "pk": 42, "fields": {"name": "Can change order item", "content_type": 11, "codename": "change_orderitem"}}, {"model": "auth.permission", "pk": 43, "fields": {"name": "Can delete order item", "content_type": 11, "codename": "delete_orderitem"}}, {"model": "auth.permission", "pk": 44, "fields": {"name": "Can view order item", "content_type": 11, "codename": "view_orderitem"}}, {"model": "auth.permission", "pk": 45, "fields": {"name": "Can add Заказ", "content_type": 12, "codename": "add_order"}}, {"model": "auth.permission", "pk": 46, "fields": {"name": "Can change Заказ", "content_type": 12, "codename": "change_order"}}, {"model": "auth.permission", "pk": 47, "fields": {"name": "Can delete Заказ", "content_type": 12, "codename": "delete_order"}}, {"model": "auth.permission", "pk": 48, "fields": {"name": "Can view Заказ", "content_type": 12, "codename": "view_order"}}, {"model": "auth.user", "pk": 1, "fields": {"password": "pbkdf2_sha256$720000$XoLo7tsICaOWFaHlSj1YgD$RsdWYzT4H2Sv1pyGyUIJxmfs6OCbNNP1OBvK3NUOPv8=", "last_login": "2024-07-22T16:41:32.870Z", "is_superuser": true, "username": "admin", "first_name": "", "last_name": "", "email": "", "is_staff": true, "is_active": true, "date_joined": "2024-06-27T17:02:19.403Z", "groups": [], "user_permissions": []}}, {"model": "auth.user", "pk": 2, "fields": {"password": "pbkdf2_sha256$720000$ks42KjNqD8jb9kKQZm6Orj$gKghUFiWTfNG3M4NRfq3DzSz6HQwbcJi3sLBQVHdd9M=", "last_login": "2024-07-15T16:50:24.905Z", "is_superuser": false, "username": "igor23", "first_name": "", "last_name": "", "email": "", "is_staff": false, "is_active": true, "date_joined": "2024-07-11T17:12:00.993Z", "groups": [], "user_permissions": []}}, {"model": "auth.user", "pk": 3, "fields": {"password": "pbkdf2_sha256$720000$wW1oVSwY5aBXVgtkWRBTAu$F1qAxnz8ZxOyfMy0N7IP7+1JyHtc45ZhkYknaC41qC4=", "last_login": null, "is_superuser": false, "username": "johan", "first_name": "", "last_name": "", "email": "", "is_staff": false, "is_active": true, "date_joined": "2024-07-11T17:21:34.975Z", "groups": [], "user_permissions": []}}, {"model": "auth.user", "pk": 4, "fields": {"password": "pbkdf2_sha256$720000$z28Cc53ETnUyVpPR2Wfdto$YwLgu5nc4kzCPUubgHZUQzNr+zSrVdia5Oku8Z/XBoU=", "last_login": null, "is_superuser": false, "username": "Igor2", "first_name": "", "last_name": "", "email": "", "is_staff": false, "is_active": true, "date_joined": "2024-07-11T17:27:20.715Z", "groups": [], "user_permissions": []}}, {"model": "contenttypes.contenttype", "pk": 1, "fields": {"app_label": "admin", "model": "logentry"}}, {"model": "contenttypes.contenttype", "pk": 2, "fields": {"app_label": "auth", "model": "permission"}}, {"model": "contenttypes.contenttype", "pk": 3, "fields": {"app_label": "auth", "model": "group"}}, {"model": "contenttypes.contenttype", "pk": 4, "fields": {"app_label": "auth", "model": "user"}}, {"model": "contenttypes.contenttype", "pk": 5, "fields": {"app_label": "contenttypes", "model": "contenttype"}}, {"model": "contenttypes.contenttype", "pk": 6, "fields": {"app_label": "sessions", "model": "session"}}, {"model": "contenttypes.contenttype", "pk": 7, "fields": {"app_label": "main", "model": "brand"}}, {"model": "contenttypes.contenttype", "pk": 8, "fields": {"app_label": "main", "model": "manufacturer"}}, {"model": "contenttypes.contenttype", "pk": 9, "fields": {"app_label": "main", "model": "car"}}, {"model": "contenttypes.contenttype", "pk": 10, "fields": {"app_label": "main", "model": "additionalcarimage"}}, {"model": "contenttypes.contenttype", "pk": 11, "fields": {"app_label": "orders", "model": "orderitem"}}, {"model": "contenttypes.contenttype", "pk": 12, "fields": {"app_label": "orders", "model": "order"}}, {"model": "sessions.session", "pk": "n89s2grtjmhimjswrgqtdfb0mwh7kfi0", "fields": {"session_data": ".eJxVjDsOwjAQBe_iGln-7SampOcM1tpe4wBypDipEHeHSCmgfTPzXiLQttawdV7ClMVZaHH63SKlB7cd5Du12yzT3NZlinJX5EG7vM6Zn5fD_Tuo1Ou3ViqRdWDzAFqVoSBFygjWJAMAI-REiJ518R6R2US2YBzziMooV1C8P9XdN3U:1sMt7U:Jec1I5F5xMx68cOSLkF3CIafhfnhNJW54d4vrPf0TnM", "expire_date": "2024-07-11T17:41:16.368Z"}}, {"model": "sessions.session", "pk": "upsxlhoowmr2pm1zguaihi1vrtkds46e", "fields": {"session_data": ".eJxVjDsOwyAQBe9CHSEM7PpTps8Z0AJL7CTCksGV5bvHllwk7Zt5swlHax3dWnhxUxSDaMTtd_MU3pxPEF-Un7MMc67L5OWpyIsW-Zgjf-6X-xcYqYzHW6lAxoKJLTQqtQnJU0QwOmgA6CAGQuy5SX2PyKw9G9CWuUOllU14RAMtVQzbvn8BD0g6wQ:1sYVe8:_ftV3KVC4_DJrxQg_u_IPutRmFDv5kTAJCGNhE8g-no", "expire_date": "2024-08-12T19:03:00.828Z"}}, {"model": "main.additionalcarimage", "pk": 2, "fields": {"image": "additional_car_image/1024px-2008_Volvo_S40_S_Diesel_Automatic_2.0_Front.jpg", "car": 1}}, {"model": "main.additionalcarimage", "pk": 3, "fields": {"image": "additional_car_image/0E0E_1140x520.png", "car": 4}}, {"model": "main.additionalcarimage", "pk": 4, "fields": {"image": "additional_car_image/Audi_A4_B9_sedans_FL_1X7A2441_TXUOJB5.jpg", "car": 2}}, {"model": "main.car", "pk": 1, "fields": {"brand": 1, "model": "S40", "price": "80000.00", "description": "Volvo S40 — автомобиль, производившийся компанией Volvo Cars с 1995 по 2013 год. Всего существовало два поколения, первое было представлено в 1995 году, второе - в 2004 году, рестайлинг - в 2008 году. Был выбран журналом Forbes как автомобиль премиум-класса для состоятельных молодых водителей. Производство модели закончилось в 2013 году, на смену ей пришёл хетчбэк Volvo V40.", "image": "car_image/cattouch.webp", "manufacturer": [1]}}, {"model": "main.car", "pk": 2, "fields": {"brand": 2, "model": "a4", "price": "100000.00", "description": "Audi 80, с 1995 года Audi A4, представляет собой семейство моделей среднего класса, выпускаемых под маркой Audi. Внутреннее обозначение автомобилей этой серии — «тип В»[1].\r\n\r\nAudi 80 стал преемником серии Audi F103, модели которой — Audi 60, 75, 80 и Super 90— обозначались по числу лошадиных сил. Наименование Audi 80 стало использоваться для всего модельного ряда и в 1994 году было заменено на A4[2].", "image": "car_image/Audi_A4_B9_sedans_FL_1X7A2441.jpg", "manufacturer": [2]}}, {"model": "main.car", "pk": 4, "fields": {"brand": 2, "model": "A8", "price": "123000.00", "description": "Выпуск автомобилей представительского класса под маркой Audi начался в 1979 году. Первым из них стал Audi 200 (Typ 43), базировавшийся на платформе Audi 100 C2. В 1983 году в качестве люксовой версии нового Audi 100 C3 был выпущен Audi 200 Typ 44[1]. В 1988 году Audi V8 стал первой самостоятельной моделью представительского класса. Тем не менее, и он, несмотря на новую с технической точки зрения конструкцию, базировался на платформе Audi 100[2]. С этим связан ряд конструктивных особенностей, обусловивших, в частности, недостаток простора и комфорта. Три первые модели привлекли к себе внимание, в первую очередь, благодаря полному приводу quattro. Значительная часть его технических компонентов применялась также в модели Volkswagen Phaeton.", "image": "car_image/Audi_A8_2022_2_VZeAHJI.jpg", "manufacturer": [2]}}, {"model": "main.car", "pk": 6, "fields": {"brand": 1, "model": "S90", "price": "123465.00", "description": "Volvo S90 — автомобиль бизнес-класса производства компании Volvo. Выпускался с 1997 по апрель 1998 года. Относится к европейскому сегменту E. Выпускался в кузовах седан и универсал. На момент производства это была самая престижная и дорогая модель Volvo. Всего было выпущено 26 269 седанов и 9 067 универсалов. В конце 2015 года Volvo Cars представила новый седан S90[1].", "image": "car_image/Volvo_S90_sedan.jpg", "manufacturer": [1]}}, {"model": "main.car", "pk": 13, "fields": {"brand": 3, "model": "E39", "price": "45123.00", "description": "gut", "image": "car_image/getImage_DoEQ67h.jpg", "manufacturer": [3]}}, {"model": "main.brand", "pk": 1, "fields": {"title": "Volvo"}}, {"model": "main.brand", "pk": 2, "fields": {"title": "Audi"}}, {"model": "main.brand", "pk": 3, "fields": {"title": "BMW"}}, {"model": "main.manufacturer", "pk": 1, "fields": {"title": "Frankfurt", "descriptoin": "zavod"}}, {"model": "main.manufacturer", "pk": 2, "fields": {"title": "leipcig", "descriptoin": "gut zavod"}}, {"model": "main.manufacturer", "pk": 3, "fields": {"title": "Berlin", "descriptoin": "zavod"}}, {"model": "main.manufacturer", "pk": 4, "fields": {"title": "Bavaria Motors", "descriptoin": "zavod BMV"}}, {"model": "main.manufacturer", "pk": 5, "fields": {"title": "Mersedes Motors", "descriptoin": "zavod Mersedes"}}, {"model": "orders.order", "pk": 18, "fields": {"user": 1, "first_name": "Александр", "last_name": "Стельмах", "email": "st.2558905@gmail.com", "address": "44 ул.Чкалова", "post_code": "225510", "created": "2024-07-22T18:44:27.017Z", "paid": false}}, {"model": "orders.order", "pk": 19, "fields": {"user": 1, "first_name": "Александр", "last_name": "Стельмах", "email": "st.2558905@gmail.com", "address": "44 ул.Чкалова", "post_code": "225510", "created": "2024-07-25T15:30:10.430Z", "paid": false}}, {"model": "orders.order", "pk": 20, "fields": {"user": 1, "first_name": "Александр", "last_name": "Стельмах", "email": "st.2558905@gmail.com", "address": "44 ул.Чкалова", "post_code": "225510", "created": "2024-07-25T16:27:54.030Z", "paid": false}}, {"model": "orders.order", "pk": 21, "fields": {"user": 1, "first_name": "Александр", "last_name": "Стельмах", "email": "st.2558905@gmail.com", "address": "44 ул.Чкалова", "post_code": "225510", "created": "2024-07-25T16:51:32.060Z", "paid": false}}, {"model": "orders.orderitem", "pk": 11, "fields": {"order": 18, "product": 2, "price": "100000.00", "quantity": 3}}, {"model": "orders.orderitem", "pk": 12, "fields": {"order": 18, "product": 4, "price": "123000.00", "quantity": 1}}, {"model": "orders.orderitem", "pk": 13, "fields": {"order": 19, "product": 4, "price": "123000.00", "quantity": 1}}, {"model": "orders.orderitem", "pk": 14, "fields": {"order": 20, "product": 2, "price": "100000.00", "quantity": 1}}]
+[
+
+  {
+    "model": "main.additionalcarimage",
+    "pk": 2,
+    "fields": {
+      "image": "additional_car_image/1024px-2008_Volvo_S40_S_Diesel_Automatic_2.0_Front.jpg",
+      "car": 1
+    }
+  },
+  {
+    "model": "main.additionalcarimage",
+    "pk": 3,
+    "fields": {
+      "image": "additional_car_image/0E0E_1140x520.png",
+      "car": 4
+    }
+  },
+  {
+    "model": "main.additionalcarimage",
+    "pk": 4,
+    "fields": {
+      "image": "additional_car_image/Audi_A4_B9_sedans_FL_1X7A2441_TXUOJB5.jpg",
+      "car": 2
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 1,
+    "fields": {
+      "brand": 1,
+      "model": "S40",
+      "price": "80000.00",
+      "description": "Volvo S40 — автомобиль, производившийся компанией Volvo Cars с 1995 по 2013 год. Всего существовало два поколения, первое было представлено в 1995 году, второе - в 2004 году, рестайлинг - в 2008 году. Был выбран журналом Forbes как автомобиль премиум-класса для состоятельных молодых водителей. Производство модели закончилось в 2013 году, на смену ей пришёл хетчбэк Volvo V40.",
+      "image": "car_image/cattouch.webp",
+      "manufacturer": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 2,
+    "fields": {
+      "brand": 2,
+      "model": "a4",
+      "price": "100000.00",
+      "description": "Audi 80, с 1995 года Audi A4, представляет собой семейство моделей среднего класса, выпускаемых под маркой Audi. Внутреннее обозначение автомобилей этой серии — «тип В»[1].\r\n\r\nAudi 80 стал преемником серии Audi F103, модели которой — Audi 60, 75, 80 и Super 90— обозначались по числу лошадиных сил. Наименование Audi 80 стало использоваться для всего модельного ряда и в 1994 году было заменено на A4[2].",
+      "image": "car_image/Audi_A4_B9_sedans_FL_1X7A2441.jpg",
+      "manufacturer": [
+        2
+      ]
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 4,
+    "fields": {
+      "brand": 2,
+      "model": "A8",
+      "price": "123000.00",
+      "description": "Выпуск автомобилей представительского класса под маркой Audi начался в 1979 году. Первым из них стал Audi 200 (Typ 43), базировавшийся на платформе Audi 100 C2. В 1983 году в качестве люксовой версии нового Audi 100 C3 был выпущен Audi 200 Typ 44[1]. В 1988 году Audi V8 стал первой самостоятельной моделью представительского класса. Тем не менее, и он, несмотря на новую с технической точки зрения конструкцию, базировался на платформе Audi 100[2]. С этим связан ряд конструктивных особенностей, обусловивших, в частности, недостаток простора и комфорта. Три первые модели привлекли к себе внимание, в первую очередь, благодаря полному приводу quattro. Значительная часть его технических компонентов применялась также в модели Volkswagen Phaeton.",
+      "image": "car_image/Audi_A8_2022_2_VZeAHJI.jpg",
+      "manufacturer": [
+        2
+      ]
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 6,
+    "fields": {
+      "brand": 1,
+      "model": "S90",
+      "price": "123465.00",
+      "description": "Volvo S90 — автомобиль бизнес-класса производства компании Volvo. Выпускался с 1997 по апрель 1998 года. Относится к европейскому сегменту E. Выпускался в кузовах седан и универсал. На момент производства это была самая престижная и дорогая модель Volvo. Всего было выпущено 26 269 седанов и 9 067 универсалов. В конце 2015 года Volvo Cars представила новый седан S90[1].",
+      "image": "car_image/Volvo_S90_sedan.jpg",
+      "manufacturer": [
+        1
+      ]
+    }
+  },
+  {
+    "model": "main.car",
+    "pk": 13,
+    "fields": {
+      "brand": 3,
+      "model": "E39",
+      "price": "45123.00",
+      "description": "gut",
+      "image": "car_image/getImage_DoEQ67h.jpg",
+      "manufacturer": [
+        3
+      ]
+    }
+  },
+  {
+    "model": "main.brand",
+    "pk": 1,
+    "fields": {
+      "title": "Volvo"
+    }
+  },
+  {
+    "model": "main.brand",
+    "pk": 2,
+    "fields": {
+      "title": "Audi"
+    }
+  },
+  {
+    "model": "main.brand",
+    "pk": 3,
+    "fields": {
+      "title": "BMW"
+    }
+  },
+  {
+    "model": "main.manufacturer",
+    "pk": 1,
+    "fields": {
+      "title": "Frankfurt",
+      "descriptoin": "zavod"
+    }
+  },
+  {
+    "model": "main.manufacturer",
+    "pk": 2,
+    "fields": {
+      "title": "leipcig",
+      "descriptoin": "gut zavod"
+    }
+  },
+  {
+    "model": "main.manufacturer",
+    "pk": 3,
+    "fields": {
+      "title": "Berlin",
+      "descriptoin": "zavod"
+    }
+  },
+  {
+    "model": "main.manufacturer",
+    "pk": 4,
+    "fields": {
+      "title": "Bavaria Motors",
+      "descriptoin": "zavod BMV"
+    }
+  },
+  {
+    "model": "main.manufacturer",
+    "pk": 5,
+    "fields": {
+      "title": "Mersedes Motors",
+      "descriptoin": "zavod Mersedes"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 18,
+    "fields": {
+      "user": 1,
+      "first_name": "Александр",
+      "last_name": "Стельмах",
+      "email": "st.2558905@gmail.com",
+      "address": "44 ул.Чкалова",
+      "post_code": "225510",
+      "created": "2024-07-22T18:44:27.017Z",
+      "paid": false
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 19,
+    "fields": {
+      "user": 1,
+      "first_name": "Александр",
+      "last_name": "Стельмах",
+      "email": "st.2558905@gmail.com",
+      "address": "44 ул.Чкалова",
+      "post_code": "225510",
+      "created": "2024-07-25T15:30:10.430Z",
+      "paid": false
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 20,
+    "fields": {
+      "user": 1,
+      "first_name": "Александр",
+      "last_name": "Стельмах",
+      "email": "st.2558905@gmail.com",
+      "address": "44 ул.Чкалова",
+      "post_code": "225510",
+      "created": "2024-07-25T16:27:54.030Z",
+      "paid": false
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 21,
+    "fields": {
+      "user": 1,
+      "first_name": "Александр",
+      "last_name": "Стельмах",
+      "email": "st.2558905@gmail.com",
+      "address": "44 ул.Чкалова",
+      "post_code": "225510",
+      "created": "2024-07-25T16:51:32.060Z",
+      "paid": false
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 11,
+    "fields": {
+      "order": 18,
+      "product": 2,
+      "price": "100000.00",
+      "quantity": 3
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 12,
+    "fields": {
+      "order": 18,
+      "product": 4,
+      "price": "123000.00",
+      "quantity": 1
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 13,
+    "fields": {
+      "order": 19,
+      "product": 4,
+      "price": "123000.00",
+      "quantity": 1
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 14,
+    "fields": {
+      "order": 20,
+      "product": 2,
+      "price": "100000.00",
+      "quantity": 1
+    }
+  }
+]
