@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'drf_yasg',
-    'django-dump-load-utf8',
+    'django_dump_load_utf8',
     'debug_toolbar',
     'rest_framework',
     'main',
