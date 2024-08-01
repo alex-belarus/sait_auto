@@ -1,0 +1,81 @@
+.form_add_car{
+    background-color: bisque;
+    padding: 20px;
+}
+
+.save_button {
+    padding: 5px;
+    background-color: bisque;
+    border-radius: 5px;
+    color: darkmagenta;
+    position: relative;
+    transition: 0.1s ease;
+    opacity: 1;
+    font-family: "Nautilus Pompilius";
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    &:hover{
+         background-color: coral;
+         color: bisque;
+    }
+&:active{
+    top: 2px;
+    transition: 0.1s ease;
+}
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.ad_car_title{
+    font-family: "Nautilus Pompilius";
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+.car_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    & label{
+        color:black;
+    }
+    & input{
+        min-width: 300px;
+        max-width: 300px;
+    }
+    & textarea{
+        min-width: 300px;
+        max-width: 300px;
+    }
+    & select {
+        min-width: 300px;
+        max-width: 300px;
+    }
+}
+
+.save_car_button{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: blueviolet;
+    font-family: "Nautilus Pompilius";
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    color: bisque;
+    border-radius: 15px;
+    cursor: pointer;
+    &:hover {
+        color: aqua;
+        background-color: chartreuse;
+    }
+}

@@ -1,0 +1,39 @@
+.detail_info{
+    background-color: bisque;
+}
+
+.wrapper{
+    pading: 20px;
+}
+
+.block_images {
+    display: flex;
+    gap: 10px;
+}
+
+.additional_image {
+    max-width: 150px;
+    max-height: 100px;
+    & img {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.additional_images {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.block_info{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: darkblue;
+    font-family: "Nautilus Pompilius";
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    color: aqua;
+    border-radius: 15px;
+}
